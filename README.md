@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Bansh Bhuria</h1>
 <!--
 **Bansh30/Bansh30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Bansh Bhuria...</h1>
 # 💫 About Me:<br>
 👨‍💻 Passionate Programmer | Dedicated to Excellence 🎓 Pursuing a Bachelor's degree in Computer Science Engineering from Lovely Professional University, I am committed to honing my skills and knowledge in the field.<br><br>📚 Currently engaged in the rigorous study of Data Structures and Cloud computng, I am driven by a thirst for understanding and mastery.<br><br>🤝 Eager to collaborate with like-minded professionals on innovative Web Projects, I bring enthusiasm, creativity, and a strong work ethic to every endeavor.<br><br>🧠 Seeking guidance and expertise in Model Training, I am dedicated to continuous learning and growth.<br><br>🎯 With ambitious goals to contribute meaningfully to open source initiatives and to achieve proficiency in both DSA and Development, I am poised for success in the dynamic world of programming.
 
